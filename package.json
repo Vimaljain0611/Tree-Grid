@@ -72,6 +72,7 @@
     "@syncfusion/ej2-svg-base": "19.2.55",
     "@syncfusion/ej2-treemap": "19.2.55",
     "ej-angular2": "^19.2.55",
+    "jquery": "^3.6.0",
     "rxjs": "~6.6.0",
     "syncfusion-javascript": "^19.2.55",
     "tslib": "^2.3.0",

@@ -419,6 +419,7 @@ export class GridViewComponent implements OnInit {
           document.getElementById('treegridcomp_gridcontrol_delete').click();
         }
       }
+      break;
 
       case 'add-del-edit-column': {
         if (eleId === 'add-column') {
@@ -431,6 +432,7 @@ export class GridViewComponent implements OnInit {
           this.treeGridObj.refreshColumns();
         }
       }
+      break;
     }
 
     // if (elem.id === "freeze-on") {
